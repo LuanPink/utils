@@ -1,0 +1,16 @@
+package maveTest;
+
+import org.junit.Test;
+
+import junit.framework.TestCase;
+
+public class appTest extends TestCase{
+	
+	public appTest (String testname) {
+		super(testname);
+	}
+	public void testApp() {
+		assertTrue(true);
+	}
+	
+}

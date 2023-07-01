@@ -1,0 +1,32 @@
+package maveTest;
+
+import org.junit.Test;
+
+import junit.framework.TestCase;
+import testmaven.app;
+
+import java.util.*;
+import org.junit.Assert;
+
+public class appTest extends TestCase{
+	
+	public appTest (String testname) {
+		super(testname);
+	}
+	public void testApp() {
+		assertTrue(true);
+	}
+	@Test
+	public void testIsEventNumber2() {
+		app demo1 = new app();
+		boolean result = demo1.isEventNumber(2);
+		assertTrue(result);
+	}
+	@Test
+	public void testIsEventNumber4() {
+		app demo1 = new app();
+		boolean result = demo1.isEventNumber(4);
+		assertTrue(result);
+	}
+	
+}

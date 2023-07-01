@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author maychuao
+ *
+ */
+module Test_Lab1 {
+	requires junit;
+}
