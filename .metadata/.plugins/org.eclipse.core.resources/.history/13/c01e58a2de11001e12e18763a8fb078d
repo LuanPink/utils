@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Bai1_Helloord">
-        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
-        <property name="context-root" value="Bai1_Helloord"/>
-        <property name="java-output-path" value="/Bai1_Helloord/build/classes"/>
-    </wb-module>
-</project-modules>

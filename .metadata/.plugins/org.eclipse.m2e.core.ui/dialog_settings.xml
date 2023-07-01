@@ -49,11 +49,13 @@
 			<item value="com"/>
 		</list>
 		<list key="name">
+			<item value="maven"/>
 			<item value="testt"/>
 			<item value="luansui"/>
 			<item value="TestChoi"/>
 		</list>
 		<list key="artifactId">
+			<item value="maven"/>
 			<item value="testt"/>
 			<item value="luan"/>
 			<item value="Tester"/>

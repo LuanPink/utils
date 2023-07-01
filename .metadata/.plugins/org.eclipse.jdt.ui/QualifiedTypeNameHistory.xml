@@ -36,6 +36,12 @@
     <fullyQualifiedTypeName name="model.ModelLogin"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="componentLogin.MainLogin"/>
-    <fullyQualifiedTypeName name="org.junit.Test"/>
     <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="junit.framework.TestCase"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="maveTest.appTest"/>
+    <fullyQualifiedTypeName name="testmaven.app"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalAccessException"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
 </qualifiedTypeNameHistroy>
